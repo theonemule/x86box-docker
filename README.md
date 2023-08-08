@@ -2,7 +2,7 @@
 
 Now, you can run DOS, Windows 95, Windows 98, Windows 98 SE, and Windows XP in a container!
 
-[<img src="docker.jpg" width="50%">]([https://www.youtube.com/watch?v=6gqXNirjNeU](https://www.youtube.com/watch?v=PXUWpbcCL6A&t) "WINDOWS98 IN A CONTAINER")
+[<img src="docker.jpg" width="50%">](https://www.youtube.com/watch?v=PXUWpbcCL6A) "WINDOWS98 IN A CONTAINER")
 
 RetroArch in a container typically requires that you have some kind of specialized client to play the games over the network. Not anymore. This implementation uses a web browser as the client without the need for anything else installed on your client.
 
